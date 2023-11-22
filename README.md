@@ -1,18 +1,16 @@
 <div align="center">
-    <h2>📊📈 TIME SERIES FORECAST ⌛📉 </h2>
+    <h1>📊📈 TIME SERIES FORECAST ⌛📉 </h1>
 </div>
 
-
-
-## 🏗️ Project Materials 🏭
-
-### ℹ️ About ℹ️
+## ℹ️ About ℹ️
 - This project is an implementation on predicting future **SALES** using a time-series dataset of a retail store.</br>
 -  dataset I am using is of **Favorita Retail Stores (From Ecuador). Found it in a Kaggle Competition</br>
 - The notebook contains implementation of 6 different algorithms for prediction.</br>
 - Total Runtime is about an hour (Majority of the time is spent on training SARIMA models)
 
 ***
+
+## 🏗️ Project Materials 🏭
 
 ### 📁 IPYNB File: RIO_125_Forecasting_Sales.ipynb 📁
 - Contains the entire code (Importing Data, Cleaning, EDA, Visualization).
