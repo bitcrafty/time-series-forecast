@@ -1,8 +1,18 @@
-# 📊📈 TIME SERIES FORECAST ⌛📉
+<div align="center">
+    <h2>📊📈 TIME SERIES FORECAST ⌛📉 </h2>
+</div>
+
+
 
 ## 🏗️ Project Materials 🏭
 
+### ℹ️ About ℹ️
+- This project is an implementation on predicting future **SALES** using a time-series dataset of a retail store.</br>
+-  dataset I am using is of **Favorita Retail Stores (From Ecuador). Found it in a Kaggle Competition</br>
+- The notebook contains implementation of 6 different algorithms for prediction.</br>
+- Total Runtime is about an hour (Majority of the time is spent on training SARIMA models)
 
+***
 
 ### 📁 IPYNB File: RIO_125_Forecasting_Sales.ipynb 📁
 - Contains the entire code (Importing Data, Cleaning, EDA, Visualization).
@@ -13,11 +23,13 @@
     - Facebook Prophet
     - Decision Tree Regressor
     - Random Forest Regressor
+- You can improve the prediction accuracy by implementing more models or improving the existing ones.
 
 ***
 
-### ⚒ Preparing the dataset ⚒
-- [Dataset Link | Drive](https://drive.google.com/drive/folders/1D45Ehi_HQ_OyLtzUW4TPfxxJd6I4sxXS?usp=sharing)
+### ⚒ Preparing the dataset to use in the notebook ⚒
+
+[Dataset Link | Drive](https://drive.google.com/drive/folders/1D45Ehi_HQ_OyLtzUW4TPfxxJd6I4sxXS?usp=sharing)
 
 Download the subset of the data from the above link. 
 1. If you are mounting drive in your colab file like I did, go the the drive link above > Select Download All.
