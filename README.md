@@ -28,7 +28,6 @@
 ***
 
 ### ⚒ Preparing the dataset to use in the notebook ⚒
-
 [Dataset Link | Drive](https://drive.google.com/drive/folders/1D45Ehi_HQ_OyLtzUW4TPfxxJd6I4sxXS?usp=sharing)
 
 Download the subset of the data from the above link. 
